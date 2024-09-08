@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "neurodots")(type "KiCad")(uri "${KIPRJMOD}/SLW-913535-2A-SMT.kicad_sym")(options "")(descr ""))
+)
